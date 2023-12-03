@@ -1,0 +1,21 @@
+{
+  "name": "threejs-template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "host": "vite --host"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0",
+    "vite-plugin-glsl": "^1.2.0"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "lil-gui": "^0.19.1",
+    "three": "^0.151.3"
+  }
+}
