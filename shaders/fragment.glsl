@@ -7,6 +7,6 @@ varying vec3 vPosition;
 float PI = 3.141592653589793238;
 
 void main(){
-    vec3 color = vec3(0., 0., 0.);
+    vec3 color = vec3(1., 1., 1.);
     gl_FragColor = vec4(color, 1.0);
 }
