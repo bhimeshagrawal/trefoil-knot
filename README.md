@@ -49,9 +49,10 @@ npm run build
 
 ## Credits
 
-- [Node.js](https://nodejs.org/) for the robust JavaScript runtime
-- [Vite Bundler](https://vitejs.dev/) as bundler
-- [Three.js](https://threejs.org/) for webgl capabilities
+- [Node.js](https://nodejs.org/) for the robust JavaScript runtime.
+- [Vite Bundler](https://vitejs.dev/) as bundler.
+- [Three.js](https://threejs.org/) for webgl capabilities.
+- [Shepherd.js](https://shepherdjs.dev/) for creating user demo flow.
 
 ## License
 
